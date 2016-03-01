@@ -2,8 +2,6 @@
 
 This is a simple site which demonstrates a sample use of the awesome HTML5 Geolocation API. It retrieves the geolocation of the user and then based on that geolocation makes request to other APIs.
 
-Live at https://abdulhannanali.github.io/whatisthesituation
-
 ### Connecting APIs
 
 The APIs to which this site is making request at the  moment are:
